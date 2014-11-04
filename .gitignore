@@ -7,3 +7,4 @@ test/vue.test.js
 dist/vue.min.js.gz
 coverage
 sauce_connect.log*
+config.bat
